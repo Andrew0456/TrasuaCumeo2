@@ -1,0 +1,11 @@
+.row{
+  float: left;
+  width: 100%;
+}
+nava{
+  background-color: lightblue;
+  min-height: 400px;
+  padding-left: 50px;
+  padding-right: 50px;
+  justify-content: center;
+}
